@@ -1,6 +1,6 @@
 # JavaScript 代码风格规范
 
-![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)
+![js-standard-style](./js_code_style.svg)
 
 掌握本规范的最好方法是安装并在自己的代码中使用它。
 
