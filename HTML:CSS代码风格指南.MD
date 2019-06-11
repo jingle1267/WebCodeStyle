@@ -1,4 +1,4 @@
-# Google HTML/CSS代码风格指南
+# HTML/CSS代码风格指南
 
 ## 1.背景
 
